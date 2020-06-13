@@ -1,0 +1,12 @@
+.pageHeader h2{
+    font-size: 30px;
+    text-align: center;
+}
+
+form{
+    text-align: center;
+}
+
+.error{
+    color: red;
+}

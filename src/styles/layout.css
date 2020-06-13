@@ -1,0 +1,20 @@
+.page{
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+.pageHeader {
+    margin-bottom: 1rem;
+    /* padding: 3.2rem 0; */
+    font-size: 20px;
+  }
+  
+.pageBody{
+    flex: 1 0 auto;
+    margin: 0px 35%;
+}
+
+.pageFooter{
+    position: relative;
+    font-size: 18px;
+}

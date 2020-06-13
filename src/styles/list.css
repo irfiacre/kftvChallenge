@@ -1,0 +1,20 @@
+.products{
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.products img{
+    width: 100%;
+    height: 30vh;
+}
+.product{
+    padding: 20px;
+    height: 45vh;
+    width: 90%;
+}
+.product:hover{
+    cursor: pointer;
+    border: 1px solid gray;
+    box-shadow:  rgba(58, 57, 57, 0.24) 0 4px 8px 0,  rgba(88, 88, 88, 0.103) 10px 6px 20px 0;
+}

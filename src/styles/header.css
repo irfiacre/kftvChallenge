@@ -1,0 +1,15 @@
+   nav{
+        background: #26a69a;
+        padding: 10px;
+        height: 10vh;
+      }
+     
+    .navLink{
+        color: white;
+        text-decoration: none;
+        font-size: 18px;
+    }
+    
+    .isActive{
+        font-weight: bold;
+    }

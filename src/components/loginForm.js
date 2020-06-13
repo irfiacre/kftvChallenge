@@ -11,7 +11,7 @@ export default (props)=>{
 
     useEffect(()=>{
         setFormSate({ ...formState, error:'' });
-    },[ ]);
+    },[]);
 
     const onInputChange = (e)=>{
         const { id, value } = e.target;
