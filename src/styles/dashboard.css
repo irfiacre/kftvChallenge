@@ -1,0 +1,13 @@
+.dashboard{
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+} 
+.pageBody{
+    flex: 1 0 auto;
+}
+
+.pageFooter{
+    position: relative;
+    font-size: 18px;
+}

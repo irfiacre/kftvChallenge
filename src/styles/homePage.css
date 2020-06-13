@@ -1,0 +1,30 @@
+.homePage{
+    margin: 0;
+    background-image: url('../assets/movies.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+    color: white;
+    filter: brightness(0.2);
+}
+
+.intro h1{
+    margin-top: -100vh;
+}
+
+.intro h5{
+    text-align: center;
+}
+
+.intro b{
+    cursor: pointer;
+}
+
+.intro{
+    color: white;
+    margin-top: -100vh;
+    padding: 0 30px;
+    width: 100%;
+    filter: brightness(1);
+}
