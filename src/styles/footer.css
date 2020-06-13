@@ -1,0 +1,12 @@
+.page-footer {
+    background-color: rgb(2, 92, 2);
+    text-align: center;
+    height: 10vh;
+
+  }
+  
+  @media (max-width: 500px) {
+    .page-footer {
+        height: 20vh;
+    }
+  }
